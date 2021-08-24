@@ -1,1 +1,1 @@
-myConfig=config demo1
+myConfig=test config demo1
